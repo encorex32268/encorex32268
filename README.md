@@ -34,8 +34,7 @@ I'm an Android Developer, and my mission is to develop apps until this world no 
 
 | Name | Tech | About | Link |
 | :--- | :--- | :--- | :--- |
-| **[Jiburi](https://github.com/encorex32268/Jiburi)** | Android | Studio Ghibli Movie Information | |
-| **[JPratice](https://github.com/encorex32268/JPractice)** | Android | Japanese Practice for Beginner Level | [GooglePlay](https://play.google.com/store/apps/details?id=chen.example.lee.jppractice) |
+| **[VibePlayer](https://github.com/encorex32268/VibePlayer)** | Android | Local music player for android | |
+| **[Jiburi](https://github.com/encorex32268/Jiburi)** | Android | Studio Ghibli movie information | |
+| **[JPratice](https://github.com/encorex32268/JPractice)** | Android | Japanese practice tool for Beginner Level | [GooglePlay](https://play.google.com/store/apps/details?id=chen.example.lee.jppractice) |
 | **[Qash](https://github.com/encorex32268/MoneyManagerKMP)** | KMP、CMP | Expense tracker | [GooglePlay](https://play.google.com/store/apps/details?id=com.lihan.moneymanager) |
-| **[QRCodeScanner](https://github.com/encorex32268/QRCodeScannerApp)** | Android | QRCode scanner | |
-| **[LeagueOfLegends](https://github.com/encorex32268/LeagueOfLegendsApp)** | Android | LeagueOfLegends app | |
