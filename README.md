@@ -29,12 +29,3 @@ I'm an Android Developer, and my mission is to develop apps until this world no 
   * Developed Android and iOS apps using **Java** and **Objective-C**.
   * Created a feature for users to **get points by taking photos of their meals**, which they could trade for coupons.
   * The main project goal was to **collect data (Big Data)** on user eating habits.
-
-## 🚀 My Side Projects
-
-| Name | Tech | About | Link |
-| :--- | :--- | :--- | :--- |
-| **[VibePlayer](https://github.com/encorex32268/VibePlayer)** | Android | Local music player for android | |
-| **[Jiburi](https://github.com/encorex32268/Jiburi)** | Android | Studio Ghibli movie information | |
-| **[JPratice](https://github.com/encorex32268/JPractice)** | Android | Japanese practice tool for Beginner Level | [GooglePlay](https://play.google.com/store/apps/details?id=chen.example.lee.jppractice) |
-| **[Qash](https://github.com/encorex32268/MoneyManagerKMP)** | KMP、CMP | Expense tracker | [GooglePlay](https://play.google.com/store/apps/details?id=com.lihan.moneymanager) |
