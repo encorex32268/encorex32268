@@ -10,11 +10,10 @@ I'm an Android Developer, and my mission is to develop apps until this world no 
 
 - **Android Developer, [NEC](https://www.ptc-nec.com.tw/)** (Taipei Neihu, Taiwan) - *2024.03 - Present*
   * Used **MVI** and **Jetpack Compose** for app development.
-  * Responsible for fixing bugs and adding new features to client apps.
+  * Architected scalable, modular features and improved application stability using MVI architecture and Jetpack Compose.
 
 - **Mobile Developer, [Clara](https://www.clara.jp/)** (Tokyo Minato, Japan) - *2022.11 - 2025.01*
-  * Used **KMP (Kotlin Multiplatform)** and **CMP** to build a recruiting app.
-  * This new technology **saved the company 75%** of mobile development costs.
+  * Spearheaded migration to KMP & CMP, creating a unified cross-platform recruiting app and slashing mobile development costs by 75%.
 
 - **QA Test Engineer, [ZTE](https://www.ztedevices.com/jp/)** (Tokyo Chuo, Japan) - *2019.05 - 2022.11*
   * Tested 5G signal strength and network quality using the **QXDM tool**.
@@ -29,3 +28,6 @@ I'm an Android Developer, and my mission is to develop apps until this world no 
   * Developed Android and iOS apps using **Java** and **Objective-C**.
   * Created a feature for users to **get points by taking photos of their meals**, which they could trade for coupons.
   * The main project goal was to **collect data (Big Data)** on user eating habits.
+
+## 🚀 Open Source Projects
+Check out my **Pinned Repositories 👇** below for open-source apps built with **Kotlin Multiplatform (KMP)**, **Gemini AI**, **Clean Architecture**, and **ExoPlayer**!
