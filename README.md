@@ -1,33 +1,24 @@
-## Hi there 👋
-My name is LiHan.
-I'm an Android Developer, and my mission is to develop apps until this world no longer needs them.😄
+# Hi there, I'm LiHan Chen 👋
+### Android & Kotlin Multiplatform (KMP) Engineer
 
-## 🛠 Languages and Tools
+I specialize in modern mobile development with **Kotlin**, **Jetpack Compose**, and **Kotlin Multiplatform (KMP)**, focusing on Clean Architecture and scalable reactive systems across Taiwan & Japan.
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white) ![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-0095D9?style=for-the-badge&logo=kotlinmultiplatform&logoColor=white) ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-00A9E0?style=for-the-badge&logo=jetbrains&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/lihanchen1993/)
+[![Google Play](https://img.shields.io/badge/Google_Play-Apps-green?style=flat&logo=google-play)](https://play.google.com/store/apps/developer?id=LiHan+Chen)
 
-## 💼 Work Experience
+---
 
-- **Android Developer, [NEC](https://www.ptc-nec.com.tw/)** (Taipei Neihu, Taiwan) - *2024.03 - Present*
-  * Used **MVI** and **Jetpack Compose** for app development.
-  * Architected scalable, modular features and improved application stability using MVI architecture and Jetpack Compose.
+### 🛠 Tech Stack & Tools
+- **Languages & Multiplatform:** Kotlin, KMP, Compose Multiplatform (CMP), Java
+- **Android Architecture:** Jetpack Compose, MVI / MVVM, Clean Architecture, Coroutines & Flow
+- **Data & Storage:** Room, SQLite, Firebase, Ktor, Retrofit
+- **Dependency Injection:** Koin, Hilt
 
-- **Mobile Developer, [Clara](https://www.clara.jp/)** (Tokyo Minato, Japan) - *2022.11 - 2025.01*
-  * Spearheaded migration to KMP & CMP, creating a unified cross-platform recruiting app and slashing mobile development costs by 75%.
+---
 
-- **QA Test Engineer, [ZTE](https://www.ztedevices.com/jp/)** (Tokyo Chuo, Japan) - *2019.05 - 2022.11*
-  * Tested 5G signal strength and network quality using the **QXDM tool**.
-  * Tested both hardware (like **GPS**) and software on Android phones.
+### 📌 Featured Projects
+- **[MoneyManagerKMP](https://github.com/encorex32268/MoneyManagerKMP)** — Cross-platform expense tracker built with KMP and Compose Multiplatform.
+- **[Aura](https://github.com/encorex32268/Aura)** — Modern real-time Android chat application with Jetpack Compose & Stream SDK.
+- **[JPractice](https://play.google.com/store/apps/details?id=chen.example.lee.jpractice)** — Published interactive Japanese alphabet learning Android application.
 
-- **Software Engineer, [Asgard](https://www.asgard.com.tw/)** (Taipei, Taiwan) - *2017.07 - 2019.03*
-  * Used **Java**, **Spring Boot**, and **MySQL** for backend development.
-  * Maintained existing banking and stock market systems.
-  * Developed big updates for insurance systems (life and general insurance).
-    
-- **Mobile Developer Intern, [Foodomo](https://www.foodomo.com/)** (Taipei, Taiwan) - *2015.01 - 2015.09*
-  * Developed Android and iOS apps using **Java** and **Objective-C**.
-  * Created a feature for users to **get points by taking photos of their meals**, which they could trade for coupons.
-  * The main project goal was to **collect data (Big Data)** on user eating habits.
-
-## 🚀 Open Source Projects
-Check out my **Pinned Repositories 👇** below for open-source apps built with **Kotlin Multiplatform (KMP)**, **Gemini AI**, **Clean Architecture**, and **ExoPlayer**!
+👉 *For detailed professional experience and career history, please check out my [LinkedIn Profile](https://www.linkedin.com/in/lihanchen1993/).*
